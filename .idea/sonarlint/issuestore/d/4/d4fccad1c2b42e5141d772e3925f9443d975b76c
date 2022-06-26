@@ -1,0 +1,5 @@
+
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ä°ÌÛýÿÿÿÿ
+n	java:S116"TRename this field "LOGIN_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìäó¾ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µâ£äþÿÿÿÿ

@@ -1,0 +1,18 @@
+
+j
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½ÂÑıÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ëÀÛ»ûÿÿÿÿ
+d
+java:S2095:"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‹‡Åe
+]
+java:S2095%"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×
+j
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷¼’§ıÿÿÿÿ
+o	java:S116"URename this field "INSERT_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±…½üÿÿÿÿ
+s	java:S116"YRename this field "SELECT_ALL_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍË…œşÿÿÿÿ
+u	java:S116"[Rename this field "SELECT_BY_ID_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÎ„üùÿÿÿÿ
+o	java:S116"URename this field "UPDATE_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‡¨Úüÿÿÿÿ
+o	java:S116"URename this field "DELETE_SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆë÷Êüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µâ£äşÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(µâ£äşÿÿÿÿ
